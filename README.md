@@ -16,3 +16,7 @@ My analysis from the Kaggle's dataset
 https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
 
 # Project 4 : Text classification of tweet (disaters fake or not)
+
+# Project 5 : House Price
+My analysis from the Kaggle's dataset
+https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
